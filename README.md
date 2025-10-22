@@ -1,6 +1,6 @@
 # lol
 
-*Created with love by willicc & Qwen*
+*Created with love by willicc & Deepseek*
 
 # Twitter Auto Task Bot
 
