@@ -62,7 +62,7 @@ Buat file `address.txt` dan isi dengan wallet addresses (satu per baris):
 Jalankan script dengan perintah:
 
 ```bash
-python auto_submit.py
+python main.py
 ```
 
 ### Output yang Diharapkan
